@@ -1,1 +1,1 @@
-GitTest2Style
+GitTestStyle
